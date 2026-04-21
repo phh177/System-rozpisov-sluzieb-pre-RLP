@@ -1,7 +1,7 @@
 
-  # Platforma pre letovú prevádzku
+  # Systém rozpisov služieb pre RLP
 
-  This is a code bundle for Platforma pre letovú prevádzku. The original project is available at https://www.figma.com/design/xOjeNj58NjTJ4roLn5C9Ok/Platforma-pre-letov%C3%BA-prev%C3%A1dzku.
+  This is a code bundle for Systém rozpisov služieb pre RLP. The original project is available at https://www.figma.com/design/xOjeNj58NjTJ4roLn5C9Ok/Syst%C3%A9m-rozpisov-slu%C5%BEieb-pre-RLP.
 
   ## Running the code
 
