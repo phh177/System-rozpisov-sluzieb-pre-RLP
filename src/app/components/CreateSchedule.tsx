@@ -884,13 +884,13 @@ export default function CreateSchedule() {
                         <th className="border border-gray-400 p-2">ECA1</th>
                         <th className="border border-gray-400 p-2">PCA1</th>
                         <th className="border border-gray-400 p-2">ECT1</th>
-                        <th className="border border-gray-400 p-2">ECG1</th>
+                        <th className="border border-gray-400 p-2">PCT1</th>
                         <th className="border border-gray-400 p-2">RLC1</th>
                         <th className="border border-gray-400 p-2" style={{ borderLeft: '3px solid #666' }}>ES2</th>
                         <th className="border border-gray-400 p-2">ECA2</th>
                         <th className="border border-gray-400 p-2">PCA2</th>
                         <th className="border border-gray-400 p-2">ECT2</th>
-                        <th className="border border-gray-400 p-2">ECG2</th>
+                        <th className="border border-gray-400 p-2">PCT2</th>
                         <th className="border border-gray-400 p-2">RLC2</th>
                       </tr>
                     </thead>
